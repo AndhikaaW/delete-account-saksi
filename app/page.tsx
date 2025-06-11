@@ -13,7 +13,7 @@ export default function Home() {
       <p>
         Atau Anda bisa mengirim permintaan penghapusan akun melalui email ke:
         <br />
-        <strong>support@myapp.com</strong>
+        <strong>tiandhika00@gmail.com</strong>
       </p>
     </main>
   );
